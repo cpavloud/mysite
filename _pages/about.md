@@ -7,7 +7,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Features
+## Who I am 
 
 Journal is packed with powerful features to showcase your work:
 
