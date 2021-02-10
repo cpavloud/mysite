@@ -1,13 +1,13 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Mitigating a major marine oil-spill'
+subtitle: 'Is in-situ burning (IBS) of oil an option?'
 date: 2018-06-30 00:00:00
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Demo content
+## To burn or not to burn?
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
@@ -49,9 +49,7 @@ You can throw in some horizontal rules too:
 
 ---
 
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
+### Images 
 
 <div class="gallery" data-columns="3">
 	<img src="/images/demo/demo-portrait.jpg">
