@@ -40,6 +40,6 @@ And:
 
 ### If this project had a song, what would it be?
 
-<iframe src="https://youtu.be/WNGItWw6oy0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/WNGItWw6oy0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
