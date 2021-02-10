@@ -2,10 +2,10 @@
 title: 'Mitigating a major marine oil-spill'
 subtitle: 'Is in-situ burning (IBS) of oil an option?'
 date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/burnimpact/Dark-clouds-of-smoke-and-fire.jpeg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/images/burnimpact/Dark-clouds-of-smoke-and-fire.jpeg)
 
 ## To burn or not to burn?
 
@@ -32,8 +32,8 @@ And:
 ### Images 
 
 <div class="gallery" data-columns="2">
-	<img src="/images/20180510_131356.jpg">
-	<img src="/images/20180510_131403.jpg">
+	<img src="/images/burnimpact/20180510_131356.jpg">
+	<img src="/images/burnimpact/20180510_131403.jpg">
 </div>
 
 ---
