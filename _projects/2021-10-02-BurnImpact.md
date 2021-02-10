@@ -31,9 +31,9 @@ And:
 
 ### Images 
 
-<div class="gallery" data-columns="2">
-	<img src="/mysite/images/burnimpact/Site-a.jpg">
-	<img src="/mysite/images/burnimpact/Site-b.jpg">
+<div class="gallery" data-columns="1">
+	<img src="/images/burnimpact/Site-a.jpg">
+	<img src="/images/burnimpact/Site-b.jpg">
 </div>
 
 ---
