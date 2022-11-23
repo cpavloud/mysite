@@ -1,11 +1,11 @@
 ---
 title: Who am I? 
 subtitle: This is my site.
-description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+description: 
+featured_image: /images/about/patra.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/about/Menir.jpg)
 
 ## Who I am 
 
