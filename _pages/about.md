@@ -9,7 +9,7 @@ featured_image: /images/about/patra.jpg
 
 I am a marine biologist, microbial ecologist, *part-time* bioinformatician, post doc researcher, diver, *wannabe* writer, *former* musician (pianist/keyboardist).  
 
-Currently working at the [George Washington University](https://biology.columbian.gwu.edu/christina-pavloudi) at the [Saw Microbial Diversity Lab](https://sawlab.org/).
+Currently, I am working at the [George Washington University](https://biology.columbian.gwu.edu/christina-pavloudi) at the [Saw Microbial Diversity Lab](https://sawlab.org/).
 
 Previously, I was working at the Institute of Marine Biology, Biotechnology and Aquaculture ([IMBBC](https://imbbc.hcmr.gr/user/cpavloud/)) of the Hellenic Centre for Marine Research (HCMR). 
 
