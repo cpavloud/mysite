@@ -21,7 +21,7 @@ menu_settings:
     - title: 'About'
       url: '/about'
     - title: 'Miscellaneous'
-      url: '/miscellaneous'
+      url: '/miscellaneous/'
 
 grid_settings:
   grid_spacing: 10
@@ -58,7 +58,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/christinapavloudi/'
 
 color_settings:
   background_color: '#ffffff'
