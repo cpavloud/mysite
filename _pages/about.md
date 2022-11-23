@@ -1,5 +1,5 @@
 ---
-title: About 
+title: Who am I? 
 subtitle: This is my site.
 description: A stunning personal blog Jekyll theme with an image-focused design.
 featured_image: /images/demo/demo-portrait.jpg
@@ -28,8 +28,5 @@ Journal is packed with powerful features to showcase your work:
 * Works with GitHub Pages
 * Updated and supported by the developers
 
-## Get Index
+---
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
