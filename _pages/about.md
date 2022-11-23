@@ -1,13 +1,11 @@
 ---
 title: Who am I? 
-subtitle: This is my site.
+subtitle: 
 description: 
 featured_image: /images/about/patra.jpg
 ---
 
 ![](/images/about/Menir.jpg)
-
-## Who I am 
 
 I am a marine biologist, microbial ecologist, *part-time* bioinformatician, post doc researcher, diver, *wannabe* writer, *former* musician (pianist/keyboardist).  
 
