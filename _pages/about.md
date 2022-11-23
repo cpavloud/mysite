@@ -9,24 +9,24 @@ featured_image: /images/about/patra.jpg
 
 ## Who I am 
 
-Journal is packed with powerful features to showcase your work:
+I am a marine biologist, microbial ecologist, *part-time* bioinformatician, post doc researcher, diver, *wannabe* writer, *former* musician (pianist/keyboardist).  
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+Currently working at the [George Washington University](https://biology.columbian.gwu.edu/christina-pavloudi) at the [Saw Microbial Diversity Lab](https://sawlab.org/).
+
+Previously, I was working at the Institute of Marine Biology, Biotechnology and Aquaculture ([IMBBC](https://imbbc.hcmr.gr/user/cpavloud/)) of the Hellenic Centre for Marine Research (HCMR). 
+
+I have studied Biology (BSc) at the [Aristotle University of Thessaloniki](https://www.bio.auth.gr/en), Environmental Biology – Management of Terrestrial and Marine Resources (MSc) at the [University of Crete](http://envbio.biology.uoc.gr/) and Marine Sciences (PhD) at the [Ghent University](https://www.marinebiology.ugent.be/) and the [University of Bremen](https://www.uni-bremen.de/en/microecophys). If you are wondering how the later was possible, it was a joint PhD degree organized under the framework of the [MARES Joint Doctoral Programme on Marine Ecosystem Health & Conservation](http://econsortprd.ugent.be/index.asp?p=1840&a=1840).
+
+You can find me in, almost, all the relevant platforms that scientists use to interact with each other (and keep their *scores*). 
+* [Twitter](https://twitter.com/cpavloud)
+* [LinkedIn](https://www.linkedin.com/in/christinapavloudi/)
+* [ResearchGate](https://www.researchgate.net/profile/Christina_Pavloudi)
+* [Web of Science](https://www.webofscience.com/wos/author/record/1120322)
+* [Scopus](https://www.scopus.com/authid/detail.uri?authorId=54941355800)
+* [ORCID](https://orcid.org/0000-0001-5106-6067)
+* [GoogleScholar](https://scholar.google.com/citations?user=3zs1rNkAAAAJ&hl=en&oi=ao)
+* [Loop-Frontiers](https://loop.frontiersin.org/people/48900/overview)
+* [OceanExpert](https://oceanexpert.org/expert/cpavloud)
 
 ---
 
