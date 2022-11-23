@@ -76,3 +76,26 @@ featured_image: /images/scrolls1.jpg
 **2015**
 * Lahajnar N, Mohrholz V, Angenendt S, Ankele M, Annighöfer M, Beier S, Birkicht M, Bohata K, Brust-Möbius J, Buchholz F, Chikwililwa C, Cordts HM, Dähnke K, …, **Pavloudi C**, et al (2015) Geochemistry and Ecology of the Namibian Upwelling System NAMUFIL: Namibian Upwelling Filament Study - Cruise No. M103 - December 27, 2013 – February 11, 2014 – Walvis Bay (Namibia) - Walvis Bay (Namibia). METEOR-Berichte, M103, 91 pp., DFG-Senatskommission für Ozeanographie, doi: [10.2312/cr_m103](
 https://doi.org/10.2312/cr_m103)
+
+## Theses:
+
+**2017**
+
+[PhD thesis](https://media.suub.uni-bremen.de/handle/elib/1301): Microbial community functioning at hypoxic sediments revealed by targeted metagenomics and RNA stable isotope probing
+
+Examination committee: [Prof. Dr. Marleen De Troch](https://www.marinebiology.ugent.be/node/28261) (Promotor), [Prof. Dr. Michael W. Friedrich](https://www.uni-bremen.de/en/microecophys/team/prof-dr-michael-w-friedrich) (Promotor), [Dr. Christos Arvanitidis](https://imbbc.hcmr.gr/user/arvanitidis/) (Promotor), [Dr. ir. Jo De Vrieze](https://www.cmet.ugent.be/users/prof-dr-ir-jo-de-vrieze), [Prof. Dr. Anne Willems](https://www.ugent.be/we/biochemicro/en/research/microbiology/willems.htm), [Prof. Dr. Dominique Adriaens](https://biblio.ugent.be/person/801000886191), [Dr. Ulrike Braeckman](https://www.marinebiology.ugent.be/node/65961), [PD Dr. Holger Auel](https://www.uni-bremen.de/en/marzoo/team/pd-dr-holger-auel), [Prof Dr. Jens Harder](https://www.mpi-bremen.de/en/Jens-Harder.html)
+
+**2012**
+
+[MSc thesis](https://www.openarchives.gr/aggregator-openarchives/edm/elocus/000018-dlib_6_4_d_metadata-dlib-1353479293-857363-19146.tkl): Comparative analysis of geochemical variables, macrofaunal and microbial communities in lagoonal ecosystems
+
+Examination committee: [Prof. Ioannis Karakassis](https://www.biology.uoc.gr/en/personnel/karakassis-ioannis), [Dr. Christos Arvanitidis](https://imbbc.hcmr.gr/user/arvanitidis/) (Promotor), [Dr. Georgios Kotoulas](https://imbbc.hcmr.gr/user/kotoulas/)
+
+**2009**
+
+[BSc thesis](https://www.bio.auth.gr/content/sygkritiki-meleti-ton-organismikon-syneyreseon-poy-shetizontai-me-dimospoggo-sarcotragus): Comparative study of the organismic assemblages associated with the demosponge *Sarcotragus foetidus* Schmidt, 1862 in the coasts of Cyprus and Greece
+
+Supervisor: [Prof. Αthanasios Koukouras](https://www.bio.auth.gr/en/users/akoukour) 
+
+
+---
