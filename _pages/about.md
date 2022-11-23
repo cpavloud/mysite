@@ -26,5 +26,7 @@ You can find me in, almost, all the relevant platforms that scientists use to in
 * [Loop-Frontiers](https://loop.frontiersin.org/people/48900/overview)
 * [OceanExpert](https://oceanexpert.org/expert/cpavloud)
 
+You can also drop me an e-mail at cpavloudi@gwu.edu or cpavloud@hcmr.gr 
+
 ---
 
