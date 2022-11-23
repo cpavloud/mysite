@@ -1,4 +1,4 @@
-<div class="contact-form">
+<!--<div class="contact-form">
 
 	<form method="post" action="{{ https://formspree.io/f/xzbwqzyz }}" id="contact-form">
 
@@ -27,4 +27,22 @@
 
 	</form>
 
-</div>
+</div>-->
+
+
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/xzbwqzyz"
+  method="POST"
+>
+  <label>
+    E-mail Address:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
