@@ -97,5 +97,4 @@ Examination committee: [Prof. Ioannis Karakassis](https://www.biology.uoc.gr/en/
 
 Supervisor: [Prof. Αthanasios Koukouras](https://www.bio.auth.gr/en/users/akoukour) 
 
-
 ---
