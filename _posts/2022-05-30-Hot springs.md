@@ -1,11 +1,11 @@
 ---
 title: 'DNA extractions from hot spring samples'
 date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/hotsprings/mickey.png'
 excerpt: This page is a demo that shows everything you can do inside portfolio and blog posts. We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/hotsprings/mickey.png)
 
 ## Demo content
 
