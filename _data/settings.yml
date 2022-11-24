@@ -22,6 +22,8 @@ menu_settings:
       url: '/publications'
     - title: 'Miscellaneous'
       url: '/miscellaneous/'
+    - title: 'Posts'
+      url: '/posts/'
 
 grid_settings:
   grid_spacing: 10
