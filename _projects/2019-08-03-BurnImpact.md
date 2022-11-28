@@ -9,32 +9,7 @@ featured_image: '/images/burnimpact/Dark-clouds-of-smoke-and-fire.jpg'
 
 ## To burn or not to burn?
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
----
-
-### Images 
-
-<div class="gallery" data-columns="1">
-	<img src="/images/burnimpact/Site-a.jpg">
-	<img src="/images/burnimpact/Site-b.jpg">
-</div>
+Coming soon...
 
 ---
 
