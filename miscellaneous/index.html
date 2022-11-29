@@ -21,18 +21,18 @@ featured_image: /images/simpsons.png
 
 	<div class="wrap">
 
-		{% for random in site.miscellaneous reversed %}
+		{% for post in site.miscellaneous reversed %}
 
 		<div class="portfolio-item">
 
-			<a class="portfolio-item__link" href="{{ miscellaneous.url | relative_url }}">
+			<a class="portfolio-item__link" href="{{ post.url | relative_url }}">
 
-				<div class="portfolio-item__image" style="background-image: url({{ miscellaneous.featured_image | relative_url }});"></div>
+				<div class="portfolio-item__image" style="background-image: url({{ post.featured_image | relative_url }});"></div>
 
 				<div class="portfolio-item__content">
 					<div class="portfolio-item__info">
-						<h2 class="portfolio-item__title">{{ miscellaneous.title }}</h2>
-						<p class="portfolio-item__subtitle">{{ miscellaneous.subtitle }}</p>
+						<h2 class="portfolio-item__title">{{ post.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ post.subtitle }}</p>
 					</div>
 				</div>
 
