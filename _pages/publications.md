@@ -9,7 +9,8 @@ featured_image: /images/scrolls1.jpg
 ## Journal articles:
 
 **2022**
-* Bilbao J, **Pavloudi C**, Blanco-Rayón E, Franco J, Madariaga I, Seoane S. (2022) Changes of the phytoplankton community composition in relation to environmental variability in the eutrophicated Urdaibai estuary (SE Bay of Biscay): microscopy and eDNA metabarcoding. Journal of Marine Systems. *Submitted - Under review*
+* Leff RT, MacDougall J, **Pavloudi C**, Oliver L, Slattery K, Lissner G, Saw JH (2022) Draft genome sequences of three bacterial species from aquatic habitats near Washington, DC. Microbiology Resource Announcements. *Submitted - Under review*
+* Bilbao J, **Pavloudi C**, Blanco-Rayón E, Franco J, Madariaga I, Seoane S (2022) Changes of the phytoplankton community composition in relation to environmental variability in the eutrophicated Urdaibai estuary (SE Bay of Biscay): microscopy and eDNA metabarcoding. Journal of Marine Systems. *Submitted - Under review*
 * **Pavloudi C**, Tsertou MI, Antonopoulou E, Katharios P (2022) Investigation of Systemic Granulomatosis in cultured meagre, *Argyrosomus regius*, using clinical metagenomics. Aquaculture. *Submitted - Under review*
 * **Pavloudi C**, Zafeiropoulos H (2022) Deciphering the community structure and the functional potential of a hypersaline marsh microbial mat community. FEMS Microbiology Ecology. doi: [10.1093/femsec/fiac141](https://doi.org/10.1093/femsec/fiac141) **(corresponding author)**
 * Paragkamian S, Sarafidou G, Mavraki D, **Pavloudi C**, Beja J, Eliezer M, Lipizer M, Boicenco L, Vandepitte L, Perez-Perez R, Zafeiropoulos H, Arvanitidis C, Pafilis E, Gerovasileiou V (2022) Automating the curation process of historical literature on marine biodiversity using text mining: the DECO workflow. Frontiers in Marine Science 9:940844, doi: [10.3389/fmars.2022.940844](https://doi.org/10.3389/fmars.2022.940844)
