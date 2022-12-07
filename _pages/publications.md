@@ -9,6 +9,7 @@ featured_image: /images/scrolls1.jpg
 ## Journal articles:
 
 **2022**
+* Santi I, Beluche O, Beraud M, Buttigieg PL, Casotti R, Cox CJ, Cunliffe M, Davies N, De Cerio OD, Exter K, Kervella AE, Kotoulas G, Lagaisse R, Laroquette A, Louro B, Not F, Obst M, **Pavloudi C**, Poulain J, Præbel K, Vanaverbeke J, Pade N (2022) European Marine Omics Biodiversity Observation Network: a strategic outline for the implementation of omics approaches in ocean observation. Frontiers in Marine Science. *Submitted - Under review*
 * Leff RT, MacDougall J, **Pavloudi C**, Oliver L, Slattery K, Lissner G, Saw JH (2022) Draft genome sequences of three bacterial species from aquatic habitats near Washington, DC. Microbiology Resource Announcements. *Submitted - Under review*
 * Bilbao J, **Pavloudi C**, Blanco-Rayón E, Franco J, Madariaga I, Seoane S (2022) Changes of the phytoplankton community composition in relation to environmental variability in the eutrophicated Urdaibai estuary (SE Bay of Biscay): microscopy and eDNA metabarcoding. Journal of Marine Systems. *Submitted - Under review*
 * **Pavloudi C**, Tsertou MI, Antonopoulou E, Katharios P (2022) Investigation of Systemic Granulomatosis in cultured meagre, *Argyrosomus regius*, using clinical metagenomics. Aquaculture. *Submitted - Under review*
