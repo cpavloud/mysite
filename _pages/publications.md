@@ -72,8 +72,11 @@ featured_image: /images/scrolls1.jpg
 
 ## Handbooks/Reports:
 
+**2022**
+* Santi I, Cancio I, Corre E, Cox CJ, Exter K, Hoebeke M, Kervella AE, Laroquette A, **Pavloudi C**, Portier M, Pade N (2022) European Marine Omics Biodiversity Observation Network (EMO BON) – Data Management Plan. (Version 1.0). Paris, France, EMBRC-ERIC, 33pp. doi: [10.25607/OBP-1743](http://dx.doi.org/10.25607/OBP-1743)
+
 **2021**
-* Santi I, Casotti R, Comtet T, Cunliffe M, Koulouri Y, Macheriotou L, Not F, Obst M, **Pavloudi C**, Romac S, Thiebaut E, Vanaverbeke J Pade N (2021) European Marine Omics Biodiversity Observation Network (EMO BON) Handbook. (Version 1.0). Paris, France, EMBRC-ERIC, 63pp. doi: [10.25607/OBP-1653](http://dx.doi.org/10.25607/OBP-1653)
+* Santi I, Casotti R, Comtet T, Cunliffe M, Koulouri Y, Macheriotou L, Not F, Obst M, **Pavloudi C**, Romac S, Thiebaut E, Vanaverbeke J, Pade N (2021) European Marine Omics Biodiversity Observation Network (EMO BON) Handbook. (Version 1.0). Paris, France, EMBRC-ERIC, 63pp. doi: [10.25607/OBP-1653](http://dx.doi.org/10.25607/OBP-1653)
 
 **2015**
 * Lahajnar N, Mohrholz V, Angenendt S, Ankele M, Annighöfer M, Beier S, Birkicht M, Bohata K, Brust-Möbius J, Buchholz F, Chikwililwa C, Cordts HM, Dähnke K, …, **Pavloudi C**, et al (2015) Geochemistry and Ecology of the Namibian Upwelling System NAMUFIL: Namibian Upwelling Filament Study - Cruise No. M103 - December 27, 2013 – February 11, 2014 – Walvis Bay (Namibia) - Walvis Bay (Namibia). METEOR-Berichte, M103, 91 pp., DFG-Senatskommission für Ozeanographie, doi: [10.2312/cr_m103](
