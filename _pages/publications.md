@@ -8,11 +8,14 @@ featured_image: /images/scrolls1.jpg
 
 ## Journal articles:
 
+**2023**
+* Santi I, Beluche O, Beraud M, Buttigieg PL, Casotti R, Cox CJ, Cunliffe M, Davies N, De Cerio OD, Exter K, Kervella AE, Kotoulas G, Lagaisse R, Laroquette A, Louro B, Not F, Obst M, **Pavloudi C**, Poulain J, Præbel K, Vanaverbeke J, Pade N (2023) European Marine Omics Biodiversity Observation Network: a strategic outline for the implementation of omics approaches in ocean observation. Frontiers in Marine Science. *Submitted - Under review*
+* Leff RT, MacDougall J, **Pavloudi C**, Oliver L, Slattery K, Lissner G, Saw JH (2023) Draft genome sequences of three bacterial species from aquatic habitats near Washington, DC. Microbiology Resource Announcements. *Submitted - Under review*
+* Bilbao J, **Pavloudi C**, Blanco-Rayón E, Franco J, Madariaga I, Seoane S (2023) Changes of the phytoplankton community composition in relation to environmental variability in the eutrophicated Urdaibai estuary (SE Bay of Biscay): microscopy and eDNA metabarcoding. Journal of Marine Systems. *Submitted - Under review*
+* **Pavloudi C**, Tsertou MI, Antonopoulou E, Katharios P (2023) Investigation of Systemic Granulomatosis in cultured meagre, *Argyrosomus regius*, using clinical metagenomics. Aquaculture 567:739249, doi: [10.1016/j.aquaculture.2023.739249](https://doi.org/10.1016/j.aquaculture.2023.739249)
+
 **2022**
-* Santi I, Beluche O, Beraud M, Buttigieg PL, Casotti R, Cox CJ, Cunliffe M, Davies N, De Cerio OD, Exter K, Kervella AE, Kotoulas G, Lagaisse R, Laroquette A, Louro B, Not F, Obst M, **Pavloudi C**, Poulain J, Præbel K, Vanaverbeke J, Pade N (2022) European Marine Omics Biodiversity Observation Network: a strategic outline for the implementation of omics approaches in ocean observation. Frontiers in Marine Science. *Submitted - Under review*
-* Leff RT, MacDougall J, **Pavloudi C**, Oliver L, Slattery K, Lissner G, Saw JH (2022) Draft genome sequences of three bacterial species from aquatic habitats near Washington, DC. Microbiology Resource Announcements. *Submitted - Under review*
-* Bilbao J, **Pavloudi C**, Blanco-Rayón E, Franco J, Madariaga I, Seoane S (2022) Changes of the phytoplankton community composition in relation to environmental variability in the eutrophicated Urdaibai estuary (SE Bay of Biscay): microscopy and eDNA metabarcoding. Journal of Marine Systems. *Submitted - Under review*
-* **Pavloudi C**, Tsertou MI, Antonopoulou E, Katharios P (2022) Investigation of Systemic Granulomatosis in cultured meagre, *Argyrosomus regius*, using clinical metagenomics. Aquaculture. *Accepted*
+
 * **Pavloudi C**, Zafeiropoulos H (2022) Deciphering the community structure and the functional potential of a hypersaline marsh microbial mat community. FEMS Microbiology Ecology 98(12): 1-18, doi: [10.1093/femsec/fiac141](https://doi.org/10.1093/femsec/fiac141) **(corresponding author)**
 * Paragkamian S, Sarafidou G, Mavraki D, **Pavloudi C**, Beja J, Eliezer M, Lipizer M, Boicenco L, Vandepitte L, Perez-Perez R, Zafeiropoulos H, Arvanitidis C, Pafilis E, Gerovasileiou V (2022) Automating the curation process of historical literature on marine biodiversity using text mining: the DECO workflow. Frontiers in Marine Science 9:940844, doi: [10.3389/fmars.2022.940844](https://doi.org/10.3389/fmars.2022.940844)
 * Grau A, Villalba A, Navas JI, Hansjosten B, Cruz JMV, Garcia March JR, Prado P, Follana G, Morage T, Vázquez-Luis M, Álvarez E, Katharios P, **Pavloudi C**, et al. (2022) Wide-geographic and long-term analysis of the role of pathogens in the decline of *Pinna nobilis* to critically endangered species. Frontiers in Marine Science 9, doi: [10.3389/fmars.2022.666640](https://doi.org/10.3389/fmars.2022.666640)
