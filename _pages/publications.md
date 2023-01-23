@@ -9,6 +9,7 @@ featured_image: /images/scrolls1.jpg
 ## Journal articles:
 
 **2023**
+* Sarafidou G, Tsaparis D, Issaris Y, Chatzigeorgiou G, Grigoriou P, Chatzinikolaou E, **Pavloudi C** (2023) Insights on Pinna nobilis genetic connectivity in the Eastern Mediterranean Sea. PeerJ. *Submitted - Under review*
 * Santi I, Beluche O, Beraud M, Buttigieg PL, Casotti R, Cox CJ, Cunliffe M, Davies N, De Cerio OD, Exter K, Kervella AE, Kotoulas G, Lagaisse R, Laroquette A, Louro B, Not F, Obst M, **Pavloudi C**, Poulain J, Præbel K, Vanaverbeke J, Pade N (2023) European Marine Omics Biodiversity Observation Network: a strategic outline for the implementation of omics approaches in ocean observation. Frontiers in Marine Science. *Submitted - Under review*
 * Leff RT, MacDougall J, **Pavloudi C**, Oliver L, Slattery K, Lissner G, Saw JH (2023) Draft genome sequences of three bacterial species from aquatic habitats near Washington, DC. Microbiology Resource Announcements. *Submitted - Under review*
 * Bilbao J, **Pavloudi C**, Blanco-Rayón E, Franco J, Madariaga I, Seoane S (2023) Changes of the phytoplankton community composition in relation to environmental variability in the eutrophicated Urdaibai estuary (SE Bay of Biscay): microscopy and eDNA metabarcoding. Journal of Marine Systems. *Submitted - Under review*
