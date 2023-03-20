@@ -26,6 +26,7 @@ You can find me in, almost, all the relevant platforms that scientists use to in
 * [Loop-Frontiers](https://loop.frontiersin.org/people/48900/overview)
 * [OceanExpert](https://oceanexpert.org/expert/cpavloud)
 * [GitHub](https://github.com/cpavloud)
+* [ITHACA](https://matsig.hua.gr/ithaca/profile/158/public)
 
 You can also drop me an e-mail at <a href="mailto:cpavloudi@gwu.edu">cpavloudi@gwu.edu</a> or <a href="mailto:cpavloud@hcmr.gr">cpavloud@hcmr.gr</a>
  
