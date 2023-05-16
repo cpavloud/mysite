@@ -9,9 +9,9 @@ featured_image: /images/about/patra.jpg
 
 I am a marine biologist, microbial ecologist, *part-time* bioinformatician, post doc researcher, diver, *wannabe* writer, *former* musician (pianist/keyboardist).  
 
-Currently, I am working at the [George Washington University](https://biology.columbian.gwu.edu/christina-pavloudi) at the [Saw Microbial Diversity Lab](https://sawlab.org/).
+Currently, I am working at PSL Research University: [EPHE](ephe.psl.eu)-[UPVD](https://www.univ-perp.fr/en)-[CNRS](https://www.cnrs.fr/en/cnrs), UAR CNRS 3278 Centre de Recherche Insulaire et Observatoire de l’Environnement ([CRIOBE](https://www.criobe.pf/en/home/)) (France) and [Laboratoire d'Excellence "CORAIL"](https://www.labex-corail.fr/), Centre de Recherche Insulaire et Observatoire de l'Environnement (CRIOBE) (French Polynesia). 
 
-Previously, I was working at the Institute of Marine Biology, Biotechnology and Aquaculture ([IMBBC](https://imbbc.hcmr.gr/user/cpavloud/)) of the Hellenic Centre for Marine Research (HCMR). 
+Previously, I was working at the [George Washington University](https://biology.columbian.gwu.edu/christina-pavloudi) at the [Saw Microbial Diversity Lab](https://sawlab.org/) and at the Institute of Marine Biology, Biotechnology and Aquaculture ([IMBBC](https://imbbc.hcmr.gr/user/cpavloud/)) of the Hellenic Centre for Marine Research (HCMR). 
 
 I have studied Biology (BSc) at the [Aristotle University of Thessaloniki](https://www.bio.auth.gr/en), Environmental Biology – Management of Terrestrial and Marine Resources (MSc) at the [University of Crete](http://envbio.biology.uoc.gr/) and Marine Sciences (PhD) at the [Ghent University](https://www.marinebiology.ugent.be/) and the [University of Bremen](https://www.uni-bremen.de/en/microecophys). If you are wondering how the later was possible, it was a joint PhD degree organized under the framework of the [MARES Joint Doctoral Programme on Marine Ecosystem Health & Conservation](http://econsortprd.ugent.be/index.asp?p=1840&a=1840).
 
@@ -28,7 +28,7 @@ You can find me in, almost, all the relevant platforms that scientists use to in
 * [GitHub](https://github.com/cpavloud)
 * [ITHACA](https://matsig.hua.gr/ithaca/profile/158/public)
 
-You can also drop me an e-mail at <a href="mailto:cpavloudi@gwu.edu">cpavloudi@gwu.edu</a> or <a href="mailto:cpavloud@hcmr.gr">cpavloud@hcmr.gr</a>
- 
+You can also drop me an e-mail at <a href="mailto:christina.pavloudi@ephe.sorbonne.fr">christina.pavloudi@ephe.sorbonne.fr</a> or <a href="mailto:cpavloud@hcmr.gr">cpavloud@hcmr.gr</a>
+
 ---
 
