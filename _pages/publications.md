@@ -9,10 +9,10 @@ featured_image: /images/scrolls1.jpg
 ## Journal articles:
 
 **2023**
-* Skliros D, Kostakou M, Kokari C, Tsertou MI, **Pavloudi C**, Zafeiropoulos H, Katharios P, Flemetakis E (2023) In depth comparative microbiome analysis of Mediterranean fish hatcheries. Environmental Microbiology. *Submitted - Under review*
+* Skliros D, Kostakou M, Kokari C, Tsertou MI, **Pavloudi C**, Zafeiropoulos H, Katharios P, Flemetakis E (2023) In depth comparative microbiome analysis of Mediterranean fish hatcheries. Aquaculture. *Submitted - Under review*
 * Sarafidou G, Tsaparis D, Issaris Y, Chatzigeorgiou G, Grigoriou P, Chatzinikolaou E, **Pavloudi C** (2023) Insights on *Pinna nobilis* genetic connectivity in the Eastern Mediterranean Sea. PeerJ. *Submitted - Under review*
 * Santi I, Beluche O, Beraud M, Buttigieg PL, Casotti R, Cox CJ, Cunliffe M, Davies N, De Cerio OD, Exter K, Kervella AE, Kotoulas G, Lagaisse R, Laroquette A, Louro B, Not F, Obst M, **Pavloudi C**, Poulain J, Præbel K, Vanaverbeke J, Pade N (2023) European Marine Omics Biodiversity Observation Network: a strategic outline for the implementation of omics approaches in ocean observation. Frontiers in Marine Science. *Submitted - Under review*
-* Bilbao J, **Pavloudi C**, Blanco-Rayón E, Franco J, Madariaga I, Seoane S (2023) Changes of the phytoplankton community composition in relation to environmental variability in the eutrophicated Urdaibai estuary (SE Bay of Biscay): microscopy and eDNA metabarcoding. Journal of Marine Systems. *Submitted - Under review*
+* Bilbao J, **Pavloudi C**, Blanco-Rayón E, Franco J, Madariaga I, Seoane S (2023) Changes of the phytoplankton community composition in relation to environmental variability in the eutrophicated Urdaibai estuary (SE Bay of Biscay): microscopy and eDNA metabarcoding. Marine Environmental Research. *Submitted - Under review*
 * Leff RT, MacDougall J, **Pavloudi C**, Oliver L, Slattery K, Lissner G, Saw JH (2023) Draft genome sequences of three bacterial species from aquatic habitats near Washington, DC. Microbiology Resource Announcements e01319-22, doi: [10.1128/mra.01319-22](https://doi.org/10.1128/mra.01319-22)
 * **Pavloudi C**, Tsertou MI, Antonopoulou E, Katharios P (2023) Investigation of Systemic Granulomatosis in cultured meagre, *Argyrosomus regius*, using clinical metagenomics. Aquaculture 567:739249, doi: [10.1016/j.aquaculture.2023.739249](https://doi.org/10.1016/j.aquaculture.2023.739249)
 
