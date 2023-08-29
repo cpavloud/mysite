@@ -9,7 +9,7 @@ featured_image: /images/scrolls1.jpg
 ## Journal articles:
 
 **2023**
-* Skliros D, Kostakou M, Kokari C, Tsertou MI, **Pavloudi C**, Zafeiropoulos H, Katharios P, Flemetakis E (2023) In depth comparative microbiome analysis of Mediterranean fish hatcheries. Marine Life Science & Technology. *Submitted - Under review*
+* Skliros D, Kostakou M, Kokari C, Tsertou MI, **Pavloudi C**, Zafeiropoulos H, Katharios P, Flemetakis E (2023) Unveiling emerging opportunistic fish pathogens in aquaculture: A comprehensive seasonal study of microbial composition in Mediterranean fish hatcheries. FEMS Microbiology Ecology. *Submitted - Under review*
 * Sarafidou G, Tsaparis D, Issaris Y, Chatzigeorgiou G, Grigoriou P, Chatzinikolaou E, **Pavloudi C** (2023) Insights on *Pinna nobilis* genetic connectivity in the Eastern Mediterranean Sea. PeerJ. *Submitted - Under review*
 * Santi I, Beluche O, Beraud M, Buttigieg PL, Casotti R, Cox CJ, Cunliffe M, Davies N, De Cerio OD, Exter K, Kervella AE, Kotoulas G, Lagaisse R, Laroquette A, Louro B, Not F, Obst M, **Pavloudi C**, Poulain J, Præbel K, Vanaverbeke J, Pade N (2023) European Marine Omics Biodiversity Observation Network: a strategic outline for the implementation of omics approaches in ocean observation. Frontiers in Marine Science. *Submitted - Under review*
 * Bilbao J, **Pavloudi C**, Blanco-Rayón E, Franco J, Madariaga I, Seoane S (2023) Changes of the phytoplankton community composition in relation to environmental variability in the eutrophicated Urdaibai estuary (SE Bay of Biscay): microscopy and eDNA metabarcoding. Marine Environmental Research. *Submitted - Under review*
