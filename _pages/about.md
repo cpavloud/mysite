@@ -16,6 +16,7 @@ Previously, I was working at the [George Washington University](https://biology.
 I have studied Biology (BSc) at the [Aristotle University of Thessaloniki](https://www.bio.auth.gr/en), Environmental Biology – Management of Terrestrial and Marine Resources (MSc) at the [University of Crete](http://envbio.biology.uoc.gr/) and Marine Sciences (PhD) at the [Ghent University](https://www.marinebiology.ugent.be/) and the [University of Bremen](https://www.uni-bremen.de/en/microecophys). If you are wondering how the later was possible, it was a joint PhD degree organized under the framework of the [MARES Joint Doctoral Programme on Marine Ecosystem Health & Conservation](http://econsortprd.ugent.be/index.asp?p=1840&a=1840).
 
 You can find me in, almost, all the relevant platforms that scientists use to interact with each other (and keep their *scores*). 
+* [Bluesky](https://bsky.app/profile/cpavloud.bsky.social)
 * [Twitter](https://twitter.com/cpavloud)
 * [LinkedIn](https://www.linkedin.com/in/christinapavloudi/)
 * [ResearchGate](https://www.researchgate.net/profile/Christina_Pavloudi)
