@@ -9,7 +9,7 @@ featured_image: /images/about/patra.jpg
 
 I am a marine biologist, microbial ecologist, *part-time* bioinformatician, post doc researcher, diver, *wannabe* writer, *former* musician (pianist/keyboardist). 
 
-Currently, I am working at PSL Research University: [EPHE](ephe.psl.eu)-[UPVD](https://www.univ-perp.fr/en)-[CNRS](https://www.cnrs.fr/en/cnrs), UAR CNRS 3278 Centre de Recherche Insulaire et Observatoire de l’Environnement ([CRIOBE](https://www.criobe.pf/en/home/)) (France) and [Laboratoire d'Excellence "CORAIL"](https://www.labex-corail.fr/), Centre de Recherche Insulaire et Observatoire de l'Environnement (CRIOBE) (French Polynesia). 
+Currently, I am working at PSL Research University: [EPHE](ephe.psl.eu)-[UPVD](https://www.univ-perp.fr/en)-[CNRS](https://www.cnrs.fr/en/cnrs), UAR CNRS 3278 Centre de Recherche Insulaire et Observatoire de l’Environnement ([CRIOBE](https://www.criobe.pf/en/home/)) (Perpignan, France) and [Laboratoire d'Excellence "CORAIL"](https://www.labex-corail.fr/), Centre de Recherche Insulaire et Observatoire de l'Environnement (CRIOBE) (French Polynesia). 
 
 Previously, I was working at the [George Washington University](https://biology.columbian.gwu.edu/christina-pavloudi) at the [Saw Microbial Diversity Lab](https://sawlab.org/) and at the Institute of Marine Biology, Biotechnology and Aquaculture ([IMBBC](https://imbbc.hcmr.gr/user/cpavloud/)) of the Hellenic Centre for Marine Research (HCMR). 
 
