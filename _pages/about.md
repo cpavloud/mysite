@@ -7,7 +7,7 @@ featured_image: /images/about/patra.jpg
 
 ![](/images/about/Menir.jpg)
 
-I am a marine biologist, microbial ecologist, *part-time* bioinformatician, post doc researcher, diver, *wannabe* writer, *former* musician (pianist/keyboardist). 
+I am a marine biologist, microbial ecologist, *part-time* bioinformatician, post doc researcher, diver, *wannabe* writer, *former* musician (pianist/keyboardist). In other words, Jack of all trades master of none (*but oftentimes better than a master of one*). 
 
 Currently, I am working at the European Marine Biological Resource Centre ([EMBRC](https://www.embrc.eu/)) as a Data Scientist.
 
