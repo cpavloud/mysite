@@ -28,6 +28,7 @@ You can find me in, almost, all the relevant platforms that scientists use to in
 * [OceanExpert](https://oceanexpert.org/expert/cpavloud)
 * [GitHub](https://github.com/cpavloud)
 * [ITHACA](https://matsig.hua.gr/ithaca/profile/158/public)
+* [SagePolicyProfiles](https://policyprofiles.sagepub.com/profile/4731/christina-pavloudi)
 
 You can also drop me an e-mail at <a href="mailto:christina.pavloudi@embrc.eu">christina.pavloudi@embrc.eu</a> or <a href="mailto:cpavloud@hcmr.gr">cpavloud@hcmr.gr</a>
 
