@@ -8,11 +8,20 @@ featured_image: /images/scrolls1.jpg
 
 ## Journal articles:
 
-**2023**
+**2024**
+
+* **Pavloudi C**, Shlafstein MD, De La Flor YT, Smith EM, Peñuela AC, Papke E, Slattery K, Lissner G, Oliver L, Coelho LC, Oline DK, Videau P, Strangman WK, Ushijima B, Saw JH (2024) *Janthinobacterium aestuarii* sp. nov., a novel violacein-producing bacterium isolated from water samples near monuments in Washington DC, USA. Systematic and Applied Microbiology. *Under submission* **(corresponding author)**
+* Cecchetto M, Dettai A, Gallut C, Obst M, Kuklinski P Balazy P, Chelchowski M, Małachowicz M, Poćwierz-Kotus A, Zbawicka M, Reiss H, Eléaume MP, Ficetola GF, **Pavloudi C**, Exter K, Schiaparelli S (2024) Seasonality of primary production, rather than its magnitude, explains the richness of pioneer hard-bottom animals at the global scale. Nature Communications. *Submitted - Under review*
 * Skliros D, Kostakou M, Kokari C, Tsertou MI, **Pavloudi C**, Zafeiropoulos H, Katharios P, Flemetakis E (2023) Unveiling emerging opportunistic fish pathogens in aquaculture: A comprehensive seasonal study of microbial composition in Mediterranean fish hatcheries. FEMS Microbiology Ecology. *Submitted - Under review*
-* Sarafidou G, Tsaparis D, Issaris Y, Chatzigeorgiou G, Grigoriou P, Chatzinikolaou E, **Pavloudi C** (2023) Insights on *Pinna nobilis* genetic connectivity in the Eastern Mediterranean Sea. PeerJ. *Submitted - Under review*
-* Shaw C, **Pavloudi C**, Barela-Hudgell M, Crow R, Saw J, Pyron A, Smith LC (2023) Bald sea urchin disease shifts the surface microbiome on purple sea urchins in an aquarium.  Pathogens and Disease. *Accepted*
-* Zafeiropoulos H, Beracochea M, Ninidakis S, Exter K, Potirakis A, De Moro G, Richardson L, Corre E, Machado J, Pafilis E, Santi I, Kotoulas G, Finn RD, Cox C, **Pavloudi C** (2023) metaGOflow: a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data. Gigascience. *Accepted* 
+* Skaraki K, **Pavloudi C**, Dailianis T, Lagnel J, Pantazidou A, Magoulas A, Kotoulas G (2024) Microbial diversity in four Mediterranean irciniid sponges. Biodiversity Data Journal. 12: e114809, doi:  [10.3897/BDJ.12.e114809](https://doi.org/10.3897/BDJ.12.e114809) **(corresponding author)**
+* Vasileiadou K, Chatzinikolaou E, Klayn S, **Pavloudi C** , Reizopoulou S (2024)  Editorial: 'Marine Biodiversity Hotspots -Challenges and Resilience'.  Frontiers in Marine Science 11:1338242, doi: [10.3389/fmars.2024.1338242](https://doi.org/10.3389/fmars.2024.1338242)
+* Shaw CG, **Pavloudi C** , Crow RS, Saw JH, Smith LC (2024) Spotting disease disrupts the microbiome of infected Strongylocentrotus purpuratus sea urchins. BMC Microbiology 24(11), doi: [10.1186/s12866-023-03161-9](https://doi.org/10.1186/s12866-023-03161-9)
+
+**2023**
+
+* Sarafidou G, Tsaparis D, Issaris Y, Chatzigeorgiou G, Grigoriou P, Chatzinikolaou E, **Pavloudi C** (2023) Insights on *Pinna nobilis* genetic connectivity in the Eastern Mediterranean Sea. PeerJ 11:e16491, doi: [10.7717/peerj.16491](https://doi.org/10.7717/peerj.16491)
+* Zafeiropoulos H, Beracochea M, Ninidakis S, Exter K, Potirakis A, De Moro G, Richardson L, Corre E, Machado J, Pafilis E, Santi I, Kotoulas G, Finn RD, Cox C, **Pavloudi C** (2023) metaGOflow: a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data. Gigascience 12: giad078, doi: [10.1093/gigascience/giad078](https://doi.org/10.1093/gigascience/giad078)    
+* Shaw C, **Pavloudi C**, Barela-Hudgell M, Crow R, Saw J, Pyron A, Smith LC (2023) Bald sea urchin disease shifts the surface microbiome on purple sea urchins in an aquarium.  Pathogens and Disease. Pathogens and Disease 81:1-14, doi: [10.1093/femspd/ftad025](https://doi.org/10.1093/femspd/ftad025)
 * Bilbao J, **Pavloudi C**, Blanco-Rayón E, Franco J, Madariaga I, Seoane S (2023) Phytoplankton community composition in relation to environmental variability in the Urdaibai estuary (SE Bay of Biscay): Microscopy and eDNA metabarcoding. Marine Environmental Research. doi: [10.1016/j.marenvres.2023.106175](https://doi.org/10.1016/j.marenvres.2023.106175)
 * Santi I, Beluche O, Beraud M, Buttigieg PL, Casotti R, Cox CJ, Cunliffe M, Davies N, De Cerio OD, Exter K, Kervella AE, Kotoulas G, Lagaisse R, Laroquette A, Louro B, Not F, Obst M, **Pavloudi C**, Poulain J, Præbel K, Vanaverbeke J, Pade N (2023) European Marine Omics Biodiversity Observation Network: a strategic outline for the implementation of omics approaches in ocean observation. Frontiers in Marine Science.Frontiers in Marine Science 10:1118120, doi: [10.3389/fmars.2023.1118120](https://doi.org/10.3389/fmars.2023.1118120)
 * Leff RT, MacDougall J, **Pavloudi C**, Oliver L, Slattery K, Lissner G, Saw JH (2023) Draft genome sequences of three bacterial species from aquatic habitats near Washington, DC. Microbiology Resource Announcements e01319-22, doi: [10.1128/mra.01319-22](https://doi.org/10.1128/mra.01319-22)
