@@ -5,7 +5,7 @@ featured_image: '/images/hotsprings/mickey.png'
 excerpt: 
 ---
 
-![](/images/hotsprings/mickey.png)
+![](/mysite/images/hotsprings/mickey.png)
 
 What would be the first step into unraveling microbial diversity in hot springs? Well, DNA extractions!
 

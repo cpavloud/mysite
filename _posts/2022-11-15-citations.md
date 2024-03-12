@@ -5,7 +5,7 @@ featured_image: '/images/15112022_citations.png'
 excerpt: 
 ---
 
-![](/images/15112022_citations.png)
+![](/mysite/images/15112022_citations.png)
 
 11 years after my first publication and I have reached 1001 citations. 
 

@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/burnimpact/Dark-clouds-of-smoke-and-fire.jpg'
 ---
 
-![](/images/burnimpact/Dark-clouds-of-smoke-and-fire.jpg)
+![](/mysite/images/burnimpact/Dark-clouds-of-smoke-and-fire.jpg)
 
 ## To burn or not to burn?
 

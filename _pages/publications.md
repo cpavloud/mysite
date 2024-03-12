@@ -4,7 +4,7 @@ subtitle: These are my publications!
 featured_image: /images/scrolls1.jpg
 ---
 
-![](/images/scrolls1.jpg)
+![](/mysite/images/scrolls1.jpg)
 
 ## Journal articles:
 
