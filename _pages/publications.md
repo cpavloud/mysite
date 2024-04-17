@@ -10,6 +10,7 @@ featured_image: /images/scrolls1.jpg
 
 **2024**
 
+* Pagalilauan Α, **Pavloudi C**, Ospina SM, Smith A, Saw J (2024) Interaction with refuse piles drives co-occurrence of core gut microbiota in workers of the ant *Aphaenogaster picea*. Access Microbiology. *Submitted - Under review*
 * Daraghmeh N, Exter K, Pagnier J, ...., **Pavloudi C**, Obst M (2024) A long-term ecological research data set from the marine genetic monitoring programme ARMS-MBON 2018-2020. Molecular Ecology Resources. *Submitted - Under review*
 * **Pavloudi C**, Shlafstein MD, De La Flor YT, Smith EM, Peñuela AC, Papke E, Slattery K, Lissner G, Oliver L, Coelho LC, Oline DK, Videau P, Strangman WK, Ushijima B, Saw JH (2024) *Janthinobacterium aestuarii* sp. nov., a novel violacein-producing bacterium isolated from water samples near monuments in Washington DC, USA. International Journal of Systematic and Evolutionary Microbiology. *Submitted - Under review* **(corresponding author)**
 * Cecchetto M, Dettai A, Gallut C, Obst M, Kuklinski P Balazy P, Chelchowski M, Małachowicz M, Poćwierz-Kotus A, Zbawicka M, Reiss H, Eléaume MP, Ficetola GF, **Pavloudi C**, Exter K, Schiaparelli S (2024) Seasonality of primary production, rather than its magnitude, explains the richness of pioneer hard-bottom animals at the global scale. Nature Communications. *Submitted - Under review*
