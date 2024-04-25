@@ -10,13 +10,13 @@ featured_image: /images/scrolls1.jpg
 
 **2024**
 
-* Pagalilauan Α, **Pavloudi C**, Ospina SM, Smith A, Saw J (2024) Interaction with refuse piles drives co-occurrence of core gut microbiota in workers of the ant *Aphaenogaster picea*. Access Microbiology. *Submitted - Under review*
+* Pagalilauan Α, **Pavloudi C**, Ospina SM, Smith A, Saw J (2024) Interaction with refuse piles drives co-occurrence of core gut microbiota in workers of the ant *Aphaenogaster picea*. Access Microbiology. doi: [10.1099/acmi.0.000832.v1](https://doi.org/10.1099/acmi.0.000832.v1). *Submitted - Under review*
 * Daraghmeh N, Exter K, Pagnier J, ...., **Pavloudi C**, Obst M (2024) A long-term ecological research data set from the marine genetic monitoring programme ARMS-MBON 2018-2020. Molecular Ecology Resources. *Submitted - Under review*
 * **Pavloudi C**, Shlafstein MD, De La Flor YT, Smith EM, Peñuela AC, Papke E, Slattery K, Lissner G, Oliver L, Coelho LC, Oline DK, Videau P, Strangman WK, Ushijima B, Saw JH (2024) *Janthinobacterium aestuarii* sp. nov., a novel violacein-producing bacterium isolated from water samples near monuments in Washington DC, USA. International Journal of Systematic and Evolutionary Microbiology. *Submitted - Under review* **(corresponding author)**
 * Cecchetto M, Dettai A, Gallut C, Obst M, Kuklinski P Balazy P, Chelchowski M, Małachowicz M, Poćwierz-Kotus A, Zbawicka M, Reiss H, Eléaume MP, Ficetola GF, **Pavloudi C**, Exter K, Schiaparelli S (2024) Seasonality of primary production, rather than its magnitude, explains the richness of pioneer hard-bottom animals at the global scale. Nature Communications. *Submitted - Under review*
 * Skliros D, Kostakou M, Kokari C, Tsertou MI, **Pavloudi C**, Zafeiropoulos H, Katharios P, Flemetakis E (2023) Unveiling emerging opportunistic fish pathogens in aquaculture: A comprehensive seasonal study of microbial composition in Mediterranean fish hatcheries. FEMS Microbiology Ecology. *Submitted - Under review*
 * Skaraki K, **Pavloudi C**, Dailianis T, Lagnel J, Pantazidou A, Magoulas A, Kotoulas G (2024) Microbial diversity in four Mediterranean irciniid sponges. Biodiversity Data Journal. 12: e114809, doi:  [10.3897/BDJ.12.e114809](https://doi.org/10.3897/BDJ.12.e114809) **(corresponding author)**
-* Vasileiadou K, Chatzinikolaou E, Klayn S, **Pavloudi C** , Reizopoulou S (2024)  Editorial: 'Marine Biodiversity Hotspots -Challenges and Resilience'.  Frontiers in Marine Science 11:1338242, doi: [10.3389/fmars.2024.1338242](https://doi.org/10.3389/fmars.2024.1338242)
+* Vasileiadou K, Chatzinikolaou E, Klayn S, **Pavloudi C** , Reizopoulou S (2024)  Editorial: 'Marine Biodiversity Hotspots-Challenges and Resilience'.  Frontiers in Marine Science 11:1338242, doi: [10.3389/fmars.2024.1338242](https://doi.org/10.3389/fmars.2024.1338242)
 * Shaw CG, **Pavloudi C** , Crow RS, Saw JH, Smith LC (2024) Spotting disease disrupts the microbiome of infected Strongylocentrotus purpuratus sea urchins. BMC Microbiology 24(11), doi: [10.1186/s12866-023-03161-9](https://doi.org/10.1186/s12866-023-03161-9)
 
 **2023**
