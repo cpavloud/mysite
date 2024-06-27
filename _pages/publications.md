@@ -10,7 +10,7 @@ featured_image: /images/scrolls1.jpg
 
 **2024**
 
-* Yau R, **Pavloudi C**, Zeng Y, Saw J, Eleftherianos I (2024) Entomopathogenic nematode infection alters the *Drosophila melanogaster* microbiome. The ISME Journal. *Submitted - Under review*
+* Yau R, **Pavloudi C**, Zeng Y, Saw J, Eleftherianos I (2024) Entomopathogenic nematode infection alters the *Drosophila melanogaster* microbiome. ISME Communications. *Submitted - Under review*
 * Hug LA, Hatzenpichler R, Moraru C, Soares A, Meyer F, Heyder A, **The Data Reuse Consortium**, Probst AJ (2024) A roadmap for fair reuse of public microbiome data. Nature Microbiology. *Submitted - Under review*
 * Pagalilauan Α, **Pavloudi C**, Ospina SM, Smith A, Saw J (2024) Interaction with refuse piles drives co-occurrence of core gut microbiota in workers of the ant *Aphaenogaster picea*. Access Microbiology. doi: [10.1099/acmi.0.000832.v1](https://doi.org/10.1099/acmi.0.000832.v1). *Submitted - Under review*
 * Daraghmeh N, Exter K, Pagnier J, ...., **Pavloudi C**, Obst M (2024) A long-term ecological research data set from the marine genetic monitoring programme ARMS-MBON 2018-2020. Molecular Ecology Resources. *Submitted - Under review*
