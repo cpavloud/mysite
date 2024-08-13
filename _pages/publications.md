@@ -89,7 +89,7 @@ featured_image: /images/scrolls1.jpg
 ## Book chapters:
 
 **2022**
-* **Pavloudi C**, Chatzinikolaou Ε, Keklikoglou Κ, Vasileiadou Κ, Arvanitidis C (2022) Seascape of soft bottom benthic communities in the Aegean Sea. In: The Handbook of Environmental Chemistry. Springer, Berlin, Heidelberg. doi: [10.1007/698_2021_839](https://doi.org/10.1007/698_2021_839) **(corresponding author)**
+* **Pavloudi C**, Chatzinikolaou Ε, Keklikoglou Κ, Vasileiadou Κ, Arvanitidis C (2022) Seascape of soft bottom benthic communities in the Aegean Sea. In: The Aegean Sea Environment: The Biodiversity of the Natural System. The Handbook of Environmental Chemistry (2024), 129:255–290 Springer, Berlin, Heidelberg. doi: [10.1007/698_2021_839](https://doi.org/10.1007/698_2021_839) **(corresponding author)**
 
 ## Handbooks/Reports:
 
