@@ -10,6 +10,7 @@ featured_image: /images/scrolls1.jpg
 
 **2024**
 
+* Keklikoglou K, Mandalakis M, Fanouraki E, Anastasiou TI, Kagiampaki E, Vasileiadou K, **Pavloudi C**, Arvanitidis C, Pavlidis M (2024) Disrupted darkness: The impact of artificial light at night on melatonin secretion of *Hermodice carunculata* (Polychaeta, Annelida). Journal of Experimental Biology. *Submitted - Under review*
 * Magiopoulos I, Chantzaras C, Romano F, Antoniou E, Symiakaki K, Almeda R, Kalantzi I, Mylona K, Parinos C, **Pavloudi C**, Tsapakis M, Zanaroli G, Kalogerakis N, Pitta P (2024) Is *in-situ* Βurning an acceptable mitigation option after a major oil spill? Impact on marine plankton. Science of The Total Environment. *Submitted - Under review*
 * Yau R, **Pavloudi C**, Zeng Y, Saw J, Eleftherianos I (2024) Entomopathogenic nematode infection alters the *Drosophila melanogaster* microbiome. Environmental Microbiology. *Submitted - Under review*
 * Hug LA, Hatzenpichler R, Moraru C, Soares A, Meyer F, Heyder A, **The Data Reuse Consortium**, Probst AJ (2024) A roadmap for fair reuse of public microbiome data. Nature Microbiology. *Submitted - Under review*
