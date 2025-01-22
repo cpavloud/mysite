@@ -17,7 +17,6 @@ I have studied Biology (BSc) at the [Aristotle University of Thessaloniki](https
 
 You can find me in, almost, all the relevant platforms that scientists use to interact with each other (and keep their *scores*). 
 * [Bluesky](https://bsky.app/profile/cpavloud.bsky.social)
-* [Twitter](https://twitter.com/cpavloud)
 * [LinkedIn](https://www.linkedin.com/in/christinapavloudi/)
 * [ResearchGate](https://www.researchgate.net/profile/Christina_Pavloudi)
 * [Web of Science](https://www.webofscience.com/wos/author/record/1120322)
