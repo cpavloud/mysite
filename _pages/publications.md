@@ -14,7 +14,7 @@ featured_image: /images/scrolls1.jpg
 * Yau R, **Pavloudi C**, Zeng Y, Saw J, Eleftherianos I (2025) Entomopathogenic nematode infection alters the *Drosophila melanogaster* microbiome. PLOS One. *Submitted - Under review*
 * Hug LA, Hatzenpichler R, Moraru C, Soares A, Meyer F, Heyder A, **The Data Reuse Consortium**, Probst AJ (2025) A roadmap for fair reuse of public microbiome data. Nature Microbiology. *Submitted - Under review*
 * **Pavloudi C**, Shlafstein MD, De La Flor YT, Smith EM, Peñuela AC, Papke E, Slattery K, Lissner G, Oliver L, Coelho LC, Oline DK, Videau P, Strangman WK, Ushijima B, Saw JH (2025) *Janthinobacterium aestuarii* sp. nov., a novel violacein-producing bacterium isolated from water samples near monuments in Washington DC, USA. International Journal of Systematic and Evolutionary Microbiology. *Submitted - Under review* **(corresponding author)**
-* Daraghmeh N, Exter K, Pagnier J, ...., **Pavloudi C**, Obst M (2025) A long-term ecological research data set from the marine genetic monitoring programme ARMS-MBON 2018-2020. Molecular Ecology Resources. *In press*
+* Daraghmeh N, Exter K, Pagnier J, ...., **Pavloudi C**, Obst M (2025) A long-term ecological research data set from the marine genetic monitoring programme ARMS-MBON 2018-2020. Molecular Ecology Resources. 0:e14073, doi: [10.1111/1755-0998.14073]https://doi.org/10.1111/1755-0998.14073(). **(shared senior authorship)**
 * Pagalilauan Α, **Pavloudi C**, Ospina SM, Smith A, Saw J (2025) Interaction with refuse piles drives co-occurrence of core gut microbiota in workers of the ant *Aphaenogaster picea*. Access Microbiology. 7(1):000832.v4, doi: [10.1099/acmi.0.000832.v4](https://doi.org/10.1099/acmi.0.000832.v4). *Accepted*
 
 **2024**
