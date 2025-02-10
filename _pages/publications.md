@@ -10,6 +10,8 @@ featured_image: /images/scrolls1.jpg
 
 **2025**
 
+* Pagnier J, Allcock L, Cancio I, Chatzinikolaou E, Chatzigeorgiou G, Chrismas N, Costantini F, Dailianis T, Deneudt K, Díaz de Cerio O, Digenis M, Exter K, Gerovasileiou V, González Fernández J, Kauppi L, Keklikoglou K, Kristoffersen JB, Lagaisse R, Mavrič B, Mortelmans J, Paredes Ε, **Pavloudi C**, et al. (2025) A long-term ecological research data set from the marine genetic monitoring programme ARMS-MBON 2020-2021. Biodiversity Data Journal. *Submitted - Under review*
+* **Pavloudi C**, Santi I, Azua I, Baña Z, Bastianini M, Belser C, Bilbao J, Bitz-Thorsen J, Broudin C, Camusat M, Cancio I, Caray-Counil L, Casotti R, Castel J, et al. (2025) First release of the European marine omics biodiversity observation network (EMO BON) shotgun metagenomics data from water and sediment samples. Biodiversity Data Journal. *Submitted - Under review* **(corresponding author)**
 * Keklikoglou K, Mandalakis M, Fanouraki E, Anastasiou TI, Kagiampaki E, Vasileiadou K, **Pavloudi C**, Arvanitidis C, Pavlidis M (2025) Disrupted darkness: The impact of artificial light at night on melatonin secretion of *Hermodice carunculata* (Polychaeta, Annelida). Photochemical & Photobiological Sciences. *Submitted - Under review*
 * Yau R, **Pavloudi C**, Zeng Y, Saw J, Eleftherianos I (2025) Entomopathogenic nematode infection alters the *Drosophila melanogaster* microbiome. PLOS One. *Submitted - Under review*
 * Hug LA, Hatzenpichler R, Moraru C, Soares A, Meyer F, Heyder A, **The Data Reuse Consortium**, Probst AJ (2025) A roadmap for fair reuse of public microbiome data. Nature Microbiology. *Submitted - Under review*
