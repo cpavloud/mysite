@@ -103,7 +103,7 @@ featured_image: /images/scrolls1.jpg
 
 **2024**
 
-* Vergés A, Managò C, **Pavloudi C**, Roddom E, Sousa Pinto I, Garcia Rodrigues J, García Durán M, Mariani P, Sassa Victor Y (2024) Policy Brief | Life on Shore - Effective Marine and Coastal Restoration for Nature and People. Zenodo, 4pp, doi: [10.5281/zenodo.11191067](https://doi.org/10.5281/zenodo.11191067)
+* Vergés A, Managò C, **Pavloudi C**, Roddom E, Sousa Pinto I, Garcia Rodrigues J, García Durán M, Mariani P, Sassa Victor Y (2024) Policy Brief: Life on Shore - Effective Marine and Coastal Restoration for Nature and People. Zenodo, 4pp, doi: [10.5281/zenodo.11191067](https://doi.org/10.5281/zenodo.11191067)
 
 **2022**
 * Santi I, Cancio I, Corre E, Cox CJ, Exter K, Hoebeke M, Kervella AE, Laroquette A, **Pavloudi C**, Portier M, Pade N (2022) European Marine Omics Biodiversity Observation Network (EMO BON) – Data Management Plan. (Version 1.0). Paris, France, EMBRC-ERIC, 33pp. doi: [10.25607/OBP-1743](http://dx.doi.org/10.25607/OBP-1743)
