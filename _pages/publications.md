@@ -8,19 +8,23 @@ featured_image: /images/scrolls1.jpg
 
 ## Journal articles:
 
+**2026**
+
+* Bilbao J, **Pavloudi C**, Seoane S (2026) Unseen threat: Persistent picophytoplankton and harmful algae challenge ballast water management in major Spanish ports. Marine Pollution Bulletin. 222(2): 118742, doi: [10.1016/j.marpolbul.2025.118742](https://doi.org/10.1016/j.marpolbul.2025.118742)
+
 **2025**
 
 * Sarafidou G, Katsiaras N, Bray LJ, Drakopoulou I, Providakis N, Voutsinas E, Dzhembekova N, Stefanova K,  Todorova V, **Pavloudi C**, Reizopoulou S (2025) Comparative analysis of eDNA metabarcoding and morphological taxonomy for zoobenthos in marine ecological quality assessment. Molecular Ecology.  *Submitted - Under review*
 * Nasr E, Amato P, Bhardwaj A, Blankenberg D, Brites D, Cumbo F, Do K, Ferrari E, Griffin TJ, Grüning B, Hiltemann S, Jagtap P, Mehta S, Métris K, Momin S, Oba A, **Pavloudi C**, Pechlivanis N, Péguilhan R, Psomopoulos F, Rosic N,  Schatz MC, Schiml VC, Siguret C, Soranzo N, Stubbs A, van Heusden P, Vohra M, microGalaxy Community, Zierep P, Batut B (2025) microGalaxy: A gateway to tools, workflows, and training for reproducible and FAIR analysis of microbial data. Nature Microbiology. *Submitted - Under review*. doi: [10.1101/2024.12.23.629682](https://doi.org/10.1101/2024.12.23.629682)
 * Pagnier J, Allcock L, Cancio I, Chatzinikolaou E, Chatzigeorgiou G, Chrismas N, Costantini F, Dailianis T, Deneudt K, Díaz de Cerio O, Digenis M, Exter K, Gerovasileiou V, González Fernández J, Kauppi L, Keklikoglou K, Kristoffersen JB, Lagaisse R, Mavrič B, Mortelmans J, Paredes Ε, **Pavloudi C**, et al. (2025) A long-term ecological research data set from the marine genetic monitoring programme ARMS-MBON 2020-2021. Biodiversity Data Journal. *Accepted*. doi: [10.3897/arphapreprints.e149221](https://doi.org/10.3897/arphapreprints.e149221)
-* Hug LA, Hatzenpichler R, Moraru C, Soares A, Meyer F, Heyder A, **The Data Reuse Consortium**, Probst AJ (2025) A roadmap for fair reuse of public microbiome data. Nature Microbiology. *Accepted*
-* Mallick S, **Pavloudi C**, Saw JH, Eleftherianos I (2025) *Heterorhabditis bacteriophora* symbiotic and axenic nematodes modify the *Drosophila melanogaster* larval microbiome. Frontiers in Microbiology. 16:1598221, doi: [10.3389/fmicb.2025.1598221](https://doi.org/10.3389/fmicb.2025.1598221)
-* Keklikoglou K, Mandalakis M, Fanouraki E, Anastasiou TI, Kagiampaki E, Vasileiadou K, **Pavloudi C**, Arvanitidis C, Pavlidis M (2025) Disrupted darkness: The impact of anthropogenic light at night on melatonin secretion of *Hermodice carunculata* (Polychaeta, Annelida). Photochemical & Photobiological Sciences. doi: [10.1007/s43630-025-00744-5](https://doi.org/10.1007/s43630-025-00744-5)
+* Hug LA, Hatzenpichler R, Moraru C, Soares A, Meyer F, Heyder A, **The Data Reuse Consortium**, Probst AJ (2025) A roadmap for fair reuse of public microbiome data. Nature Microbiology. 10: 2384–2395, doi: [10.1038/s41564-025-02116-2](https://doi.org/10.1038/s41564-025-02116-2)
+* Mallick S, **Pavloudi C**, Saw JH, Eleftherianos I (2025) *Heterorhabditis bacteriophora* symbiotic and axenic nematodes modify the *Drosophila melanogaster* larval microbiome. Frontiers in Microbiology. 16: 1598221, doi: [10.3389/fmicb.2025.1598221](https://doi.org/10.3389/fmicb.2025.1598221)
+* Keklikoglou K, Mandalakis M, Fanouraki E, Anastasiou TI, Kagiampaki E, Vasileiadou K, **Pavloudi C**, Arvanitidis C, Pavlidis M (2025) Disrupted darkness: The impact of anthropogenic light at night on melatonin secretion of *Hermodice carunculata* (Polychaeta, Annelida). Photochemical & Photobiological Sciences. 24: 1031–1040, doi: [10.1007/s43630-025-00744-5](https://doi.org/10.1007/s43630-025-00744-5)
 * Yau R, **Pavloudi C**, Zeng Y, Saw J, Eleftherianos I (2025) Infection with the entomopathogenic nematodes *Steinernema* alters the *Drosophila melanogaster* larval microbiome. PLoS One. 20(5): e0323657, doi: [10.1371/journal.pone.0323657](https://doi.org/10.1371/journal.pone.0323657)
 * **Pavloudi C**, Shlafstein MD, De La Flor YT, Smith EM, Peñuela AC, Papke E, Slattery K, Lissner G, Oliver L, Coelho LC, Oline DK, Videau P, Strangman WK, Ushijima B, Saw JH (2025) *Janthinobacterium aestuarii* sp. nov., a novel violacein-producing bacterium isolated from water samples near monuments in Washington DC, USA. International Journal of Systematic and Evolutionary Microbiology. 75(5): 006768, doi: [10.1099/ijsem.0.006768](https://doi.org/10.1099/ijsem.0.006768) **(corresponding author)**
 * **Pavloudi C**, Santi I, Azua I, Baña Z, Bastianini M, Belser C, Bilbao J, Bitz-Thorsen J, Broudin C, Camusat M, Cancio I, Caray-Counil L, Casotti R, Castel J, et al. (2025) First release of the European marine omics biodiversity observation network (EMO BON) shotgun metagenomics data from water and sediment samples. Biodiversity Data Journal. 13: e143585, doi: [10.3897/BDJ.13.e143585](https://doi.org/10.3897/BDJ.13.e143585)  **(corresponding author)**
-* Daraghmeh N, Exter K, Pagnier J, ...., **Pavloudi C**, Obst M (2025) A long-term ecological research data set from the marine genetic monitoring programme ARMS-MBON 2018-2020. Molecular Ecology Resources. 0:e14073, doi: [10.1111/1755-0998.14073](https://doi.org/10.1111/1755-0998.14073) **(shared senior authorship)**
-* Pagalilauan Α, **Pavloudi C**, Ospina SM, Smith A, Saw J (2025) Interaction with refuse piles drives co-occurrence of core gut microbiota in workers of the ant *Aphaenogaster picea*. Access Microbiology. 7(1):000832.v4, doi: [10.1099/acmi.0.000832.v4](https://doi.org/10.1099/acmi.0.000832.v4)
+* Daraghmeh N, Exter K, Pagnier J, ...., **Pavloudi C**, Obst M (2025) A long-term ecological research data set from the marine genetic monitoring programme ARMS-MBON 2018-2020. Molecular Ecology Resources. 0:e14073, doi: [10.1111/1755-0998.14073](https://doi.org/10.1111/1755-0998.14073) **(corresponding author)**
+* Pagalilauan Α, **Pavloudi C**, Ospina SM, Smith A, Saw J (2025) Interaction with refuse piles drives co-occurrence of core gut microbiota in workers of the ant *Aphaenogaster picea*. Access Microbiology. 7(1): 000832.v4, doi: [10.1099/acmi.0.000832.v4](https://doi.org/10.1099/acmi.0.000832.v4)
 
 **2024**
 
@@ -97,8 +101,12 @@ featured_image: /images/scrolls1.jpg
 
 ## Book chapters:
 
+**2025**
+
+* **Pavloudi C**, Boxshall GA, Bray RA, Cribb TH, Cutmore SC, Miller TL, Wee N, Sasal P (2025) The Biodiversity of Metazoan Parasites of Coral Reef Fishes of the Central and Eastern Indo-Pacific. In: Planes, S. (eds) The Future of Coral Reefs. Coral Reefs of the World, vol 21. Springer, Cham. doi: [10.1007/978-3-031-98584-3_9](https://doi.org/10.1007/978-3-031-98584-3_9) 
+
 **2022**
-* **Pavloudi C**, Chatzinikolaou Ε, Keklikoglou Κ, Vasileiadou Κ, Arvanitidis C (2022) Seascape of soft bottom benthic communities in the Aegean Sea. In: The Aegean Sea Environment: The Biodiversity of the Natural System. The Handbook of Environmental Chemistry (2024), 129:255–290 Springer, Berlin, Heidelberg. doi: [10.1007/698_2021_839](https://doi.org/10.1007/698_2021_839) **(corresponding author)**
+* **Pavloudi C**, Chatzinikolaou Ε, Keklikoglou Κ, Vasileiadou Κ, Arvanitidis C (2022) Seascape of soft bottom benthic communities in the Aegean Sea. In: The Aegean Sea Environment: The Biodiversity of the Natural System. The Handbook of Environmental Chemistry (2024), 129: 255–290 Springer, Berlin, Heidelberg. doi: [10.1007/698_2021_839](https://doi.org/10.1007/698_2021_839) **(corresponding author)**
 
 ## Handbooks/Reports:
 
@@ -113,8 +121,7 @@ featured_image: /images/scrolls1.jpg
 * Santi I, Casotti R, Comtet T, Cunliffe M, Koulouri Y, Macheriotou L, Not F, Obst M, **Pavloudi C**, Romac S, Thiebaut E, Vanaverbeke J, Pade N (2021) European Marine Omics Biodiversity Observation Network (EMO BON) Handbook. (Version 1.0). Paris, France, EMBRC-ERIC, 63pp. doi: [10.25607/OBP-1653](http://dx.doi.org/10.25607/OBP-1653)
 
 **2015**
-* Lahajnar N, Mohrholz V, Angenendt S, Ankele M, Annighöfer M, Beier S, Birkicht M, Bohata K, Brust-Möbius J, Buchholz F, Chikwililwa C, Cordts HM, Dähnke K, …, **Pavloudi C**, et al (2015) Geochemistry and Ecology of the Namibian Upwelling System NAMUFIL: Namibian Upwelling Filament Study - Cruise No. M103 - December 27, 2013 – February 11, 2014 – Walvis Bay (Namibia) - Walvis Bay (Namibia). METEOR-Berichte, M103, 91 pp., DFG-Senatskommission für Ozeanographie, doi: [10.2312/cr_m103](
-https://doi.org/10.2312/cr_m103)
+* Lahajnar N, Mohrholz V, Angenendt S, Ankele M, Annighöfer M, Beier S, Birkicht M, Bohata K, Brust-Möbius J, Buchholz F, Chikwililwa C, Cordts HM, Dähnke K, …, **Pavloudi C**, et al (2015) Geochemistry and Ecology of the Namibian Upwelling System NAMUFIL: Namibian Upwelling Filament Study - Cruise No. M103 - December 27, 2013 – February 11, 2014 – Walvis Bay (Namibia) - Walvis Bay (Namibia). METEOR-Berichte, M103, 91 pp., DFG-Senatskommission für Ozeanographie, doi: [10.2312/cr_m103](https://doi.org/10.2312/cr_m103)
 
 ## Theses:
 
